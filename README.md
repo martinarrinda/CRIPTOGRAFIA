@@ -4,7 +4,18 @@ Este repositorio contiene una colección de ejercicios prácticos de criptograf�
 
 ## Estructura del repositorio
 
-Criptografia/ ├── AE1/ │ ├── Ejercicio01.py │ ├── Ejercicio02.py │ └── ... │ ├── AE2/ │ ├── Ejercicio01.py │ ├── Ejercicio02.py │ └── ...
+```
+Criptografia/
+├── AE1/
+│   ├── Ejercicio01.py
+│   ├── Ejercicio02.py
+│   └── ...
+│
+├── AE2/
+│   ├── Ejercicio01.py
+│   ├── Ejercicio02.py
+│   └── ...
+```
 
 Los ejercicios están organizados por actividades evaluables (AE). Cada archivo corresponde a un ejercicio independiente.
 
