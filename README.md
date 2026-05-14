@@ -19,6 +19,10 @@ Criptografia/
 │   ├── Ejercicio01.py
 │   ├── Ejercicio02.py
 │   └── ...
+├── AE4/
+│   ├── Ejercicio01.py
+│   ├── Ejercicio02.py
+│   └── ...
 ```
 
 Los ejercicios están organizados por actividades evaluables (AE). Cada archivo corresponde a un ejercicio independiente.
